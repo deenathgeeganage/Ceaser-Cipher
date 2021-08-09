@@ -1,5 +1,3 @@
-//object test extends App{
-//  val alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
-//  val s = "dee"
-//  println(alphabet.c(s))
-//}
+object test extends App{
+  println((-1)%5)
+}
